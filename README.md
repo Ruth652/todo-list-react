@@ -64,18 +64,19 @@ Tasks deleted from the previous using the Delete button.
    npm install
    ```
 
-# or
+### or
 
 ```bash
 yarn install
 ```
 
 3. Start the development server:
+
    ```bash
    npm start
    ```
 
-# or
+### or
 
 ```bash
 yarn start
