@@ -7,17 +7,7 @@ This is a **Todo List** web application built using **React** and **TypeScript (
 - Add new tasks
 - Edit existing tasks inline
 - Delete tasks
-- Persist tasks locally using **localStorage**, so data remains after page refresh
-
----
-
-## Features
-
-- **Add** tasks via input form
-- **Edit** tasks with a smooth inline editing UI
-- **Delete** tasks individually
-- **Persistent storage**: tasks saved in browser `localStorage`
-- Responsive and minimal design
+- Get tasks saved using **localStorage**, so data remains after page refresh
 
 ---
 
@@ -67,7 +57,7 @@ Tasks deleted from the previous using the Delete button.
 ### or
 
 ```bash
-yarn install
+ yarn install
 ```
 
 3. Start the development server:
@@ -79,7 +69,7 @@ yarn install
 ### or
 
 ```bash
-yarn start
+ yarn start
 ```
 
 4. After starting the server, check your terminal for the exact local URL. Click the link or open it in your browser.
